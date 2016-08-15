@@ -5,7 +5,7 @@ Author:
 Yuliya
 
 Contributors:
-Dima 
+Dima Ivankov
 Eduard
 
 I add some more information here, as Eduard asked:)
